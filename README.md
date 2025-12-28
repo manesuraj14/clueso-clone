@@ -31,3 +31,11 @@ The application is implemented as a frontend-only MVP using browser-native Media
 
 The architecture is designed to be easily extensible, and backend or AI integrations can be added in future iterations.
 
+## Mock Dashboard
+
+A simple dashboard view is included to represent Clueso’s main user workflow.  
+It displays a mock list of recordings and allows navigation to the recording interface.
+
+This dashboard is frontend-only and uses static data. It demonstrates product understanding and system flow without introducing backend complexity.
+
+
